@@ -1,24 +1,7 @@
-# README
+This is an app that looks at coordinating relationships between dogs, dogwalkers, their strolls, and the city they inhabit.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app was very fun to make!
 
-Things you may want to cover:
+Collaborator:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You know who you are ;) <3
